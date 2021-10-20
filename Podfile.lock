@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (5.4.3)
+  - JKSwiftExtension (1.8.0):
+    - Kingfisher
+  - JXSegmentedView (1.2.7)
+  - Kingfisher (4.10.1)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - MBProgressHUD (1.2.0)
+  - McPicker (3.0.0)
+  - Realm (10.17.0):
+    - Realm/Headers (= 10.17.0)
+  - Realm/Headers (10.17.0)
+  - RealmSwift (10.17.0):
+    - Realm (= 10.17.0)
+  - RSKPlaceholderTextView (6.1.0)
+  - SnapKit (4.2.0)
+  - SwiftCSV (0.6.0)
+  - TTTAttributedLabel (2.0.0)
+  - ZLPhotoBrowser (4.1.7):
+    - ZLPhotoBrowser/Core (= 4.1.7)
+  - ZLPhotoBrowser/Core (4.1.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - JKSwiftExtension
+  - JXSegmentedView
+  - KRProgressHUD
+  - MBProgressHUD
+  - McPicker
+  - RealmSwift (~> 10)
+  - RSKPlaceholderTextView
+  - SnapKit
+  - SwiftCSV
+  - TTTAttributedLabel
+  - ZLPhotoBrowser
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - JKSwiftExtension
+    - JXSegmentedView
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - MBProgressHUD
+    - McPicker
+    - Realm
+    - RealmSwift
+    - RSKPlaceholderTextView
+    - SnapKit
+    - SwiftCSV
+    - TTTAttributedLabel
+    - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  JKSwiftExtension: 36228e99699b676a20f155bf862c76094766f6aa
+  JXSegmentedView: eb1cad21f57c2543c00c3e08b8fd3c7ca54f5acd
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  McPicker: ba38be56a8194faa5249eca4226c364eed628044
+  Realm: 9533276bd76f66aa2fd0d3ffe700c1f6023dcab6
+  RealmSwift: 57f5d59aa29852587aad1e861989e7af139894b5
+  RSKPlaceholderTextView: 52f26e643b6f9bbf16f45cd2bbe2181b6dfe090c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftCSV: ebc63cacc3820042537288c0cc647946261f7c2c
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  ZLPhotoBrowser: 8ea81aa5cbaaf8b97bf8830fed1b1f756a5e8894
+
+PODFILE CHECKSUM: 97cbd1884dbbe84845754fae02abac5f547dde14
+
+COCOAPODS: 1.10.1
